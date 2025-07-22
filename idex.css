@@ -1,0 +1,11 @@
+body{
+
+background:linear-gradient(#6ea8ff, rgb(43, 255, 43));
+}
+
+#Tip_Jar{
+    position: fixed;
+    top:0;
+    right:0;
+
+}
